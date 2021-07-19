@@ -8,6 +8,7 @@
     z-index: 99;
     height: 100vh;
     background-color: var(--blue);
+    color: white;
     width: 100vw;
     display: flex;
     justify-content: center;
